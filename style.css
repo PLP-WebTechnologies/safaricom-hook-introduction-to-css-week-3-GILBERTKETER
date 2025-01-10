@@ -1,0 +1,9 @@
+/* External CSS */
+body {
+    background-color: #e0f7fa;
+}
+
+a:hover {
+    color: green;
+    text-decoration: underline;
+}
